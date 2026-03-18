@@ -40,3 +40,7 @@ npm run dev
 - useState hook for managing state
 - Handling user events in React
 - Dynamic list rendering with .map()
+
+
+<img width="322" height="313" alt="image" src="https://github.com/user-attachments/assets/611d77e3-8e15-4a43-9f38-9108880fe27f" />
+
